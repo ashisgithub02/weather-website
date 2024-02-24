@@ -1,6 +1,6 @@
-# Weather App
+# Weather Website
 
-Welcome to the Weather App project! This simple web application allows users to get real-time weather information by entering the name of a city.
+Welcome to the Weather Website project! This simple web application allows users to get real-time weather information by entering the name of a city.
 
 ## Features
 
